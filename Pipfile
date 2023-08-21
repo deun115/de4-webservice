@@ -8,6 +8,9 @@ streamlit = "*"
 pandas = "*"
 graphviz = "*"
 streamlit-on-hover-tabs = "*"
+mysqlclient = "*"
+sqlalchemy = "*"
+confluent-kafka = "*"
 
 [dev-packages]
 
